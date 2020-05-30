@@ -1,0 +1,169 @@
+@media all and (min-device-width: 1048px)
+{
+#entreprise
+{
+	margin-top :0;
+}
+
+h2
+{
+	height:50px;
+    display: flex;
+    align-items: center;
+}
+#travaux
+{
+	margin-left: ;
+}
+.icon
+{
+	margin-left:;	
+}
+h4
+{
+	margin-left: ;
+}
+#image
+{
+	display:flex;
+	justify-content: space-around;
+}
+.bigboss
+{
+	display: flex;
+}
+header
+{
+	height: 10%;
+}
+#blocimg
+{
+	display: flex;
+	justify-content: space-around;
+
+}
+
+#blocimg figure
+{
+	margin: 0;
+	    	
+}
+.tarif
+{
+	height: 200px;
+	    align-items: center;
+		display:flex;
+		justify-content: center;
+}
+.tarif p
+{
+	width: 1255px;
+}
+.sous1, .sous2, .sous3
+{
+	margin-top: 1%;
+    margin-bottom: 1%;
+}
+#bloclogo
+{
+	display: flex;
+	    margin-left: ;
+}
+#bloclogo figure
+{
+	margin: 0;
+	text-align: center;
+	margin-top: ;
+}
+.souslogo, .souslogo2, .souslogo3, .souslogo4
+{
+	margin-right: 10px;
+	width: 308px;
+	  
+}
+.head3 p
+{
+	text-align: center;
+	width: 450px;
+}
+.p
+{
+	    height: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.head1
+{
+	justify-content: space-between;
+	height: 85px;
+}
+#big
+{
+	display:flex;
+	justify-content: space-around;
+}
+.galerie
+{
+	display:flex;
+	justify-content: space-between;
+	margin-left: ;
+    margin-right: 
+;
+    margin-bottom: 1%;
+}
+.sousicon
+{
+	align-items: center;
+    display: flex;
+    margin-right: 10%;
+}
+.contact
+{
+	align-items: center;
+    display: flex;
+	margin-right: 2%;
+	margin-top: ;
+}
+.contactbloc
+{
+	display: flex;
+	justify-content: center;
+}
+.deb, .dob, .dab
+{
+	display: flex;
+	flex-direction: column;
+}
+.align
+{
+	    display: flex;
+		justify-content: space-between;
+		    margin-bottom: 2%;
+}
+.ohoh
+{
+	margin-left:;
+}
+.nav
+{
+	width: 556PX;
+}
+.sous1, .sous2, .sous3
+{
+	width: 400px;
+	height: 450px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.sous2
+{
+	    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+}
+

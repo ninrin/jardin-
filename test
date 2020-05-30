@@ -1,0 +1,723 @@
+header{
+	height: 100px;
+	margin-left: 3
+}
+nav
+{
+	
+text-align: right;	
+}	
+
+.nav a
+{
+	color: #ffffff;
+	font-size: 24px;
+	line-height:60px;	
+}
+
+strong
+{
+	
+
+    font-weight: bold;
+}
+h4
+{
+	font-size: 24px;
+}
+h2
+{
+	margin-left: 3%
+}
+
+
+.text
+{
+text-align: justify;
+margin-left:6%
+}
+
+.s1 img
+{
+	margin-right: 7%
+	display: inline;
+}
+.s1
+{
+	background: #E1DBDB;
+}
+#entreprise
+{
+    margin-left: 0%;
+}
+.imgs1
+{
+	display:flex;
+	justify-content: space-around;
+	margin-left: 14px;
+}
+.ol
+{
+margin-left: 20%;
+
+}
+footer{
+	background: #414034;
+	height: 200px;
+	color: white;
+	margin-left: 3%;
+}
+footer ol{
+	text-align: center;
+	list-style-type: none;
+	margin-left: 12%;display: inline-block;
+}
+footer h5 {
+	font-size: 20px;
+	color: green;
+}
+
+.titre
+{
+	margin: 0;
+	line-height: 40px;
+	
+}
+.titreb
+{
+	margin-left: 3%;
+	   
+}
+.form  h2
+{
+	text-decoration: underline;
+	text-align:center;
+}
+.form  h2+P
+{
+	text-align: center;
+}
+.titre2, .titre2 + p
+{
+	margin: 0;
+	color: #00FF00;
+
+}
+.nav
+{
+
+	margin-top: 10px;
+	margin-right:65px;
+	font-size: 30px;
+}
+
+.blocimg 
+{
+	display: flex;
+	
+	text-align: center;
+	justify-content: space-around;
+	background: #414034;
+	margin-left: 3%;
+	over;
+}
+
+.blocimg figcaption
+{
+
+	text-align: center;
+	justify-content: space-between;
+	width: 330px;	
+	
+}
+.centre p 
+{
+	text-align: center;
+}
+.bloclogo 
+{
+	display:flex;
+	justify-content: space-between;
+	overflow: scr
+	
+}
+.blocimg p
+{
+	color: white;
+}
+.image
+{
+display: flex;
+    margin-left: 6%;	
+}
+.galerie
+{   
+    display: flex;
+	margin-left: 3%;
+	justify-content: space-around;
+	margin-bottom: 10px;
+	overflow: scrol
+}
+.contactbloc
+{
+	display: flex;
+
+}
+#contain
+{
+	width: 100%;
+    background: #F4F0F0;
+}
+
+.contact
+{
+	justify-content: center;
+	margin-top: 80px;
+	margin-left: 20%;
+	margin-right: 10px;
+}
+.souslogo 	
+{
+	background: grey;
+	margin-left: 3%;
+	text-align:center;
+}
+.souslogo2 
+{
+	background: grey;
+	margin-left: 15px;
+	margin-right: 15px;
+	text-align:center;
+}
+.souslogo3 
+{
+	background: grey;
+	margin-right: 15px;
+	text-align:center;
+	
+}
+.souslogo4 
+{
+	background: grey;
+	margin-right: 3%;
+	margin-right: 15px;
+	text-align:center;
+}
+
+.sous1
+
+{
+	background: green;
+	margin-left: 29px;
+}
+.sous2
+
+{
+	background: green;
+}
+.sous3	
+
+{
+	background: green;
+	margin-right: 29px;
+}
+body
+{
+	background: green;
+margin-left: 3%;
+margin-right: 3%;
+margin-b	
+}
+
+.tarif
+{
+	background: #BCB8B8;
+	margin-left: 3%;
+	height: 100px;
+	    display: flex;
+    align-items: center;
+    justify-content: center;
+	
+
+}
+
+.tarif p
+{
+	    vertical-align: middle;
+    text-align: justify;
+    margin-left: inherit
+}
+.text
+{
+WIDTH: 1272PX;
+}
+.big
+
+{
+	display: flex;
+	justify-content: space-around;
+	text-align:center;
+	margin-left: 3%;
+}
+.temoin
+{
+	border: solid;
+	margin-left: 50px;
+	margin-right: 29px;
+	background: white;
+}
+.sousicon
+{
+font-size:20px;
+margin-left: 50%;
+	color:white;
+}
+.bigboss
+{
+display:flex;
+background:#B7D99E;
+}
+
+.icon
+{
+	color: #ffffff;
+}
+.head1
+{
+	background: #2F6F66;
+	display:flex;
+    justify-content: space-between;
+	
+}
+.head2
+{
+	background: #BCB8B8;
+	height: 70px;	
+}
+.head3
+{
+	background: #F4F0F0;
+	height: 100px;
+}
+.head3 p
+{
+	justify-content: center;
+    display: flex;
+}
+.head4
+{
+	background: black;
+	color: white;
+	height: 70px;
+}
+.head4 p
+{
+	margin: 0;
+}
+#travaux
+{
+line-height: 70px;
+}
+.s
+
+{
+	background: #EEEEEE;
+}
+form input, select, textarea
+{
+	background: grey;
+}
+.envoyer{
+	background: #00FF00;
+}
+
+
+
+les mediua
+
+
+
+@media all and (max-device-width: 480px)
+{
+.galerie 
+{
+flex-direction: column;
+align-items: center;
+}
+
+.blocimg
+{
+flex-direction: column;
+background: non
+}
+.bloclogo
+{
+	flex-direction:column;
+
+}
+.imlgs1
+{
+	flex-direction: column;
+}
+.s1 p
+{
+	word-wrap: break-word;
+}
+.image
+{
+	flex-direction: column;
+
+}
+.souslogo2, .souslogo3, .souslogo4
+{
+	    margin-left: 3%;
+		margin-right: 0;
+}
+.sous2, .sous3
+{
+	margin-left: 3%;
+	margin-right: 0;
+}
+.blocimg figcaption
+{
+	width: 100%;
+	
+}
+.blocimg p
+{
+	display:flex;
+	justify-content: space-around;
+	
+}
+.imgs2
+{
+	display: flex;
+    justify-content: space-around;
+	margin-left: 14px;
+	margin-top: 10px;
+}
+
+.text
+{
+	width: 866px;
+
+}
+
+footer ol
+{
+	margin-left: 10px;
+}
+
+.contactbloc
+{
+	display: flex;
+	justify-content: space-around;
+}
+
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8" />
+        <title>Les jardins de thorim</title>
+		<link rel="stylesheet" href="styles.css">
+		<link rel="stylesheet" href="media.css">
+		
+		
+		
+    </head>
+	
+	<body>	
+		<header class= "head1">	
+			<div class= "ohoh">
+				<img src= "icone_thorim/logo_jardins_de_thorim.png" alt="logo des jardins de thorim" width="150" height="85"/>
+			</div>
+			<nav>
+				<div class= "nav">
+				    <a href="#entreprise">L'entreprise</a>	
+				    <a href="#travaux">Travaux réalisés</a>
+					<a href="#tarification">Tarification</a>
+				    <a href="#ornement">Combinaisons</a>
+					<a href="#contact">Contact</a>
+				</div>
+			</nav>
+		</header>
+		<div class= "contain">
+			<section class="s1">
+				<div class="text">
+					<h2 id= "entreprise">l'entreprise</h2>
+					
+					<p>Entreprise spécialisée dans le jardinage et le façonnage de plantes intérieur comme extérieur. Dans le domaine de la décoration, autant sur des grandes que des petites structures.Crée par Jean Damidot, le frère de la célèbre Valérie Damidot, en 2016. Spécialisé dans la décoration en tout genre, de génération en génération, de cette famille d'artiste. Avec l'aide de ces 10 collaborateurs, passionnés et compétents, passant de paysagistes, ingénieur agronome, étude de terrain... Ils sont à votre disposition pour vous offrir le meilleur des services sur le marché. Ainsi l'équipe propose en 1er temps: 	
+					
+					L'étude des lieux par un chef technicien Paysagiste et un ingénieur agricole. Le technicien dessinateur projetteur, prend la relève en consigniant digitalement les plans selon le rapport .L'ingénieur propose des conseils de combinaisons possible pour l'harmonie des plantes ainsi que leur préservations à long terme.Une fois les plans et propositions faites, les techniens se hâtent à la tâche pour satisfaire au plus vite.
+					Voici deux travaux entièrement réalisés par nos soins pour le maire de la Ville de Paris:
+					</p>
+					
+				</div>
+				
+				<div class = "image">
+					<div class= "imgs1">
+						<img src= "img_thorim/parc.jpg" alt="le parc des buttes-chaumons"  width="596" height="350" >
+					</div>
+					<div class= "imgs2">
+						<img src= "img_thorim/parc2.jpg" alt="jardin des tuileries" width="596" height="350">
+					</div>
+					
+				</div>
+				
+			</section>
+	
+			<section>
+				<header class= "head2">
+					<h2 id= "travaux">Travaux réalisés pour des Jardins plus résidentiel</h2>
+				</header>
+				<div class= "blocimg">
+					<div class= "sous1">
+						<figure>
+							<img src= "img_thorim/residentiel.jpg" alt="photo residentiel" width="330" height="200">
+							<figcaption>
+								<h3> Résidence Charle Bré</h3>
+								<p> Résidence situé en aix-provence, récemment crée, et appartenant à Mr. Jacque brel. Autour de la résidence, La nature avait prise forme de la plus sauvage des manières.Suite à notre prestation, voici l'exemple en l'image ci-dessus.
+							</figcaption>
+						</figure>	
+					</div>
+					<div class= "sous2">
+						<figure>
+							<figcaption>
+								<img src= "img_thorim/residentiel2.jpg" alt="photo residentiel2" width="330" height="200">
+								<h3> Résidence Universitaire</h3>
+								<p> Résidence universitaire privée, les mauvaises herbes ainsi que les vieux arbres mortes avaient défigurées le beau paysage, et bouchant le passage piéton.Après une remise au propre par nos soins et taillé les arbres les plus vigoureux et arrachant les plus faibles, le résultat est bien plus soigné</p>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="sous3">
+						<figure>
+							<figcaption>
+								<img src= "img_thorim/residentiel3.jpg" alt="photo residentiel3" width="330" height="200">
+								<h3>Forêt rénovéé</h3>
+								<p>Maison abandonnée, rénovée il y a peu, au milieu d'une foret sauvage. Nous avons crée un havre de paix.</p>
+							</figcaption>
+						</figure>
+					</div>
+				</div>
+			</section>
+	
+			<section>
+				<header class= "head3">
+					<h2 id= "tarification">tarification</h2>
+					<div class ="p">
+						<p>Nos prestations sont justes et les prix transparents, pour vous servir au mieux nous vous avons crée une section pour vous guider sur Les tarifs, qui se scandent en deux parties:
+						</p>
+				
+					</div>
+				</header>
+			
+				<div class= "tarif">
+					<p>Martinus agens illas provincias pro praefectis aerumnas innocentium graviter gemens saepeque obsecrans, ut ab omni culpa inmunibus parceretur, cum non inpetraret, minabatur se discessurum: ut saltem id metuens perquisitor malivolus tandem desineret quieti coalitos homines in aperta pericula proiectare.Quod si rectum statuerimus vel concedere amicis, quidquid velint, vel impetrare ab iis, quidquid velimus, perfecta quidem sapientia si simus, nihil habeat res vitii; sed loquimur de iis amicis qui ante oculos sunt, quos vidimus aut de quibus memoriam accepimus, quos novit vita communis. Ex hoc numero nobis exempla sumenda sunt, et eorum quidem maxime qui ad sapientiam proxime accedunt.Eodem tempore Serenianus ex duce, cuius ignavia populatam in Phoenice Celsen ante rettulimus, pulsatae maiestatis imperii reus iure postulatus ac lege, incertum qua potuit suffragatione absolvi, aperte convictus familiarem suum cum pileo, quo caput operiebat, incantato vetitis artibus ad templum misisse fatidicum, quaeritatum expresse an ei firmum portenderetur imperium, ut cupiebat, et cunctum.
+					</p>
+				</div>
+					
+				
+					
+			</section>
+	
+
+			<section class= "s4">
+				<header class= "head4">
+					<div class= "titreb">	
+						<h2 class= "titre"> Combinaisons harmonieuses </h2>
+						<p>biodiversité et durabilité</p>
+					</div>
+				</header>
+				<div class= "bloclogo">
+					<div class= "souslogo">
+						<figure>
+							<img src= "img_thorim/ornement.jpg" alt="photo ornement"  width="270" height="180">
+							<figcaption>
+								<h3 id="ornement">Ornement 1</h3>
+								<p> Par les conseils de l'ingénieur agronome, Le placement des arbrustes fait guise de plantes pionnères, protégeant les différentes espèces de fleurs des rayons solaire,et sublimant les couleurs de ces dernières"</p>
+								<br>
+								<br>
+								<img src= "icone_thorim/twitter.png" alt="logo twitter" width="40" height="40">
+								<img src= "icone_thorim/facebook.png" alt="logo facebook" width="40" height="40">
+								<img src= "icone_thorim/linkedln.png" alt="logo linkedln" width="40" height="40">
+							</figcaption>
+						</figure>
+						
+					</div>
+					<div class= "souslogo2">
+						<figure>
+							<img src= "img_thorim/ornement2.jpg" alt="photo ornement2"  width="270" height="180">
+							<figcaption>
+								<h3> Ornement 2</h3>
+								<p>Un plus gros plan de l'effet semi-ombragé dont béneficient les fleurs,leur procurant une meilleur santé, et donc de meilleurs couleurs.</p>
+								<br><br><br><br>
+						<img src= "icone_thorim/twitter.png" alt="logo twitter" width="40" height="40">
+						<img src= "icone_thorim/facebook.png" alt="logo facebook" width="40" height="40">
+						<img src= "icone_thorim/linkedln.png" alt="logo linkedln" width="40" height="40">
+							</figcaption>
+						</figure>
+					</div>
+	
+					<div class= "souslogo3">
+						<figure>
+							<img src= "img_thorim/orement3.jpg" alt="photo ornement3" width="270" height="180">
+							<figcaption>	
+							<h3> Ornement 3</h3>	
+							<p>Voici un mini-champs, dont la plantation de plantes pionnères, qui, après pleine développement, permettront la culture de légumes sans ronces ni mauvaise herbes, sans oublier la décoration et l'harmonie des couleurs.</p>
+							<br>
+							
+							<img src= "icone_thorim/twitter.png" alt="logo twitter" width="40" height="40">
+							<img src= "icone_thorim/facebook.png" alt="logo facebook" width="40" height="40">
+							<img src= "icone_thorim/linkedln.png" alt="logo linkedln" width="40" height="40">
+							</figcaption>
+						</figure>
+					</div>
+					<div class= "souslogo4">
+						<figure>
+							<img src= "img_thorim/ornement4.jpg" alt="photo ornement4" width="270" height="180">
+							<figcaption>
+								<h3> Ornement 4</h3>	
+								<p>Un travail personnel de la famille de Jean Damidot sur le terrain familial, qui, alliant les bons emplacements des plantes pionnières, des couleurs, des éspèces de fleurs,et de la gestion minitieuse des espaces, donne un résultat magnifique après 30 ans de développement des plantes.</p>
+								
+								<img src= "icone_thorim/twitter.png" alt="logo twitter" width="40" height="40">
+								<img src= "icone_thorim/facebook.png" alt="logo facebook" width="40" height="40">
+								<img src= "icone_thorim/linkedln.png" alt="logo linkedln" width="40" height="40">
+							</figcaption>
+						</figure>
+					</div>
+				</div>
+			</section>
+			<header>	
+				<h4>Avis Client</h4>	
+			</header>
+			<div class= "big">
+				<div class= "avis">
+					<img src="img_thorim/brick-home-290315_1920.jpg" alt="avis" width="450" height="240">
+				</div>
+				<div class= "temoin">
+					<p><strong> TÉMOIGNAGES </strong></p>
+					
+				</div>
+			</div>
+	        <header>
+				<h4>galerie photo</h4>
+			</header>
+				<div class= "galerie">
+					<img src= "img_thorim/galerie.jpg" alt="photo galerie" width="310" height="200">
+					<img src= "img_thorim/galerie2.jpg" alt="photo galerie2" width="310" height="200">
+					<img src= "img_thorim/galerie3.jpg" alt="photo galerie3" width="310" height="200">
+					<img src= "img_thorim/galerie4.jpg" alt="photo galerie4" width="310" height="200">
+				</div>
+				<section>
+					<header>
+						<div class ="bigboss">
+							<div class= "icon">
+								<h2 id= "contact">Contact</h2>
+							</div>
+							<div class= "sousicon">
+								<img src= "icone_thorim/facebook2.png" alt="logo facebook2" width="40" height="40">/Facebook 
+								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+								<img src= "icone_thorim/twitter2.png" alt="logo twitter2" width="40" height="40">/twitter 
+							</div>	
+						</div> 	
+					</header>
+					<div class= "contactbloc">
+						<div class= "contact">
+							<p><strong>Les jardin de thorim	
+									<br>
+									Société de jardinage
+									<br>
+									120 Océan atlantique
+									<br>
+									Pays du monde
+									<br>
+									01.02.04.05
+									<br>
+									09.08.07.06.05
+									<br>	
+									</strong>
+							</p>
+						</div>
+	
+						<div class= "form">
+							<div class= "titre2"><h2>Contact</h2>
+							<p>Indiquer nous vos questions</p>
+							</div>
+							<p><strong>LAISSEZ NOUS UN MESSAGE</strong></p>
+							<form method= "post" action= "traitement.php">
+								<div class= "align">
+										<div class="dab">	
+											<label for= "nom" >Nom </label>
+											<input type= "text" name= "nom" id= "nom" placeholder= "votre nom" />
+										</div>
+											
+										<div class= "deb">
+											<label for= "email">Email</label>
+											<input type= "email" name= "email" id= "email" placeholder= "votre mail" />
+										</div>
+											
+										<div class= dob>
+											<label for= "sujet">Sujet du message</label>
+											<select name="sujet" id="sujet">
+												<option value="sujet1">sujet 1</option>
+												<option value="sujet2">sujet 2</option>
+												<option value="sujet3">sujet 3</option>
+												<option value="sujet4">sujet 4</option>
+												<option value="autres">autres</option>
+											</select>
+										</div>
+								</div>
+										<label for= "message" > Message </label>
+										<textarea name="message" id="message" rows="8" cols="120">
+										</textarea>
+										<br/>
+										<input class="envoyer" type="submit" value="envoyer"/>
+							</form> 
+						</div>
+					</div>
+				</section>
+
+				<footer>
+					<div class= "ol">	
+						<ol>
+							<li><h5>titre</h5></li>
+							<li>Item One</li>
+							<li>Item Two</li>
+							<li>Item Three</li>
+							<li>Item Four</li>
+						</ol>
+
+						<ol>
+							<li><h5>titre</h5></li>
+							<li>Item One</li>
+							<li>Item Two</li>
+							<li>Item Three</li>
+							<li>Item Four</li>
+						</ol>
+		
+						<ol>
+							<li><h5>titre</h5></li>
+							<li>Item One</li>
+							<li>Item Two</li>
+							<li>Item Three</li>
+							<li>Item Four</li>
+						</ol>
+
+						<ol>
+							<li><h5>titre</h5></li>
+							<li>Item One</li>
+							<li>Item Two</li>
+							<li>Item Three</li>
+							<li>Item Four</li>
+						</ol>
+					</div>
+
+				</footer>		
+	</div>
+	<div class= "phrase">	
+		<p>Saraceni tamen nec amici nobis umquam nec hostes optandi, 
+	ultro citroque discursantes quicquid inveniri poterat momento temporis parvi vastabant milvorum.
+		</p>
+	</div>
+	</body>
+</html>

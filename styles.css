@@ -1,0 +1,246 @@
+body
+{
+	background: green;
+	margin-bottom: 1%;
+	margin-top: 0;
+}
+
+{
+	margin-left: 3%;
+	font-family: AlexBrush, arial, serif;
+}
+.s1
+{
+	background: #E1DBDB;
+}
+.head2
+{
+	background: grey;
+
+}
+
+#travaux
+{
+	margin: 0;
+}
+#blocimg p
+
+{
+	color: white;
+	text-align: justify;
+	
+}
+.color
+{
+	background: #414034;
+	
+}
+
+#blocimg figcaption
+{
+	width: 330px;
+}
+#blocimg figure
+{
+	margin-left: 30%;
+}
+#blocimg h3
+{
+	text-align: center;
+}
+.head3
+
+{
+	background: #E1DBDB;
+	height: 150px;
+	
+}
+.head3 p
+{
+	
+    text-align: center;
+}
+.tarif
+{
+	background: grey;
+}
+.titreb
+{
+	color: white;
+    background: black;
+}
+.souslogo, .souslogo2, .souslogo3, .souslogo4
+{
+	background: grey;	
+}
+.sous1, .sous2, .sous3
+{
+	background: green;
+	margin-left: 
+	margin-right: 
+}
+.bigboss
+{
+	color: white;
+	justify-content: space-between;
+	background: green;
+}
+.s4
+{
+	background: #E1DBDB;
+}
+facebook2
+{
+	height: 20px;
+}
+.galerie img
+{
+	width: auto;
+	height: 100%;
+}
+#contain
+{
+	background: #E1DBDB;
+	width: 100%;
+	max-width: 1350px;
+	margin: auto;
+	overflow:hidden;
+	
+}
+#contain img
+{
+	width: 100%;
+	height: auto;
+}
+
+#contain p, #contain h2, #contain div id, #contain h4
+{
+margin-left: 3%; margin-right: 3%;	
+}
+
+footer
+{
+	color: white;
+	background: black;
+}
+.ol
+{
+	display: flex;
+	justify-content: center;
+}
+h5
+{
+	color: green;
+	list-style: none;
+}
+.head1
+{
+	display: flex;
+	justify-content: space-around;
+	background: #206276;
+}
+.nav a
+{
+	color: #ffffff;
+	font-size: 20px;
+	line-height:90px;	
+}
+#bloclogo figcaption
+{
+	width: 300px;
+}
+#bloclogo figure
+{
+	    margin-left: 30%;
+}
+.sous1 figure
+{
+	margin-top: 0;
+}
+
+#bloclogo h3
+{
+	text-align:center;
+}
+
+ol
+{
+	list-style: none;
+}
+.tarif p
+{
+	margin-bottom: 0;
+}
+.titre
+{
+	margin-top: 0; margin-bottom: 0;
+}
+.titreb p 
+{
+	margin-left:; margin-top: 0;
+	
+}
+.temoin
+{
+	border: deeppink;
+    background: white;
+    width: 740px;
+    height: 240px;
+	    display: flex;
+    align-items: center;
+}
+.titre2
+{
+	margin-left: 10%;
+    color: green;
+	    display: flex;
+    flex-direction: column;
+	
+}
+.titre2 p
+{
+	    margin-top: 0;
+}
+.titre2 h2
+{
+	margin-bottom: 0;
+	text-decoration: underline;
+	 
+}
+.envoyer
+{
+	background: green;
+	align-items: flex-end;
+    display: flex;
+	margin-top: 2%;
+	margin-bottom:2%;
+}
+label
+{
+	display: flex;
+}
+
+
+image
+{
+	margin-bottom: 2%;
+	height: 100%;
+	
+}
+.imgs2 {
+   margin-left: 2%;
+}
+.phrase
+{
+	align-items: center;
+    display: flex;
+    justify-content: center;
+	color: white;
+}
+@font-face { /* Définition d'une nouvelle police nommée CAC Champagne */
+    font-family: 'AlexBrush';
+    src: url('Regular.eot');
+    src: url('Regular.eot?#iefix') format('embedded-opentype'),
+         url('Regular.woff') format('woff'),
+         url('Regular.ttf') format('truetype'),
+         url('Regular.svg#cac_champagneregular') format('svg');
